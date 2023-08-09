@@ -22,6 +22,7 @@ The fifth project's repository will be created and used for reporting and monito
 
 Diagram representing the context of the Project and Repository Intergration: 
 
+![Diagram](https://github.com/Geenah007/CMPG323-Overview-29628784/assets/129061198/ae8a36d1-3363-4c96-8939-0bbdd0153801)
 
 Branching Strategy that will be used: 
 
