@@ -20,7 +20,17 @@ Project 5: CMPG Project 5
 The fifth project's repository will be created and used for reporting and monitoring of the task at that point in time. 
 
 
- Diagram representing the context of the Project and Repository Intergration: 
+Diagram representing the context of the Project and Repository Intergration: 
+
+
+Branching Strategy that will be used: 
+
+At this point in time the ideal Branching Strategy that will be used for the projects in the future is Git Flow. It allows you to have different branches for the different stages in the project's development  
+
+.Gitignore File in each project: 
+
+This file will be used to exclude files that were created in the development processes. These files will not be used or cimmitted to the repository. They are ignored by Git. 
+
 
 
 
