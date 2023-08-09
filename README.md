@@ -25,12 +25,14 @@ Diagram representing the context of the Project and Repository Intergration:
 ![Diagram](https://github.com/Geenah007/CMPG323-Overview-29628784/assets/129061198/ae8a36d1-3363-4c96-8939-0bbdd0153801)
 
 Branching Strategy that will be used: 
-
-At this point in time the ideal Branching Strategy that will be used for the projects in the future is Git Flow. It allows you to have different branches for the different stages in the project's development  
+At this point in time the ideal Branching Strategy that will be used for the projects in the future is Git Flow. It allows you to   have different branches for the different stages in the project's development  
 
 .Gitignore File in each project: 
-
 This file will be used to exclude files that were created in the development processes. These files will not be used or cimmitted to the repository. They are ignored by Git. 
+
+Storage of Credentials and Sensitive Information: 
+Sensitive information and Credentials will be stored on my local machine under the "Passowords" Security feature. It needs the owner's (me) fcaial Recognition to show any passwords. Access will only be granted by the owner and access will be granted to relevant personnel. The projects are also set to private on GitHub esnuring that no one else besides the owner and specified personnel have access to everything  
+
 
 
 
