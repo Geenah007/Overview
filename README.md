@@ -1,6 +1,6 @@
 # CMPG323-Overview-29628784
 
-Welcome to mu CMPG 323 project Overview. The CMPG 323 projects 1, 2, 3, 4 and 5 will each have their own repositories which will follow the preferred Naming convention as required, and will further be intergrated into one KanBan project.
+Welcome to my CMPG 323 project Overview. The CMPG 323 projects 1,2,3,4 and 5 will each have their own repositories which will follow the preferred Naming convention as required, and will further be intergrated into one KanBan project.
 
 Names and brief description of the repositories to be created:
 
