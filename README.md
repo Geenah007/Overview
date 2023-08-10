@@ -36,6 +36,10 @@ Sensitive information and Credentials will be stored on my local machine under t
 References 
 - JacquiM
 
+Burn-Down Chart
+
+[Burn-DownChart_29628784.xlsx](https://github.com/Geenah007/CMPG323-Overview-29628784/files/12312176/Burn-DownChart_29628784.xlsx)
+
 
 
 
